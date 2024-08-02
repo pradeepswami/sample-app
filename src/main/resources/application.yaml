@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: sample-app
+logging:
+  level:
+    org:
+      springframework:
+        jdbc: DEBUG
